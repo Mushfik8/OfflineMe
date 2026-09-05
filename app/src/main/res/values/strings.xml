@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OfflineMe</string>
+    <string name="enable_firewall">Enable Firewall</string>
+    <string name="disable_firewall">Disable Firewall</string>
+    <string name="firewall_active">Firewall is active</string>
+    <string name="firewall_off">Firewall is off</string>
+    <string name="no_apps_blocked">No apps blocked</string>
+    <string name="search_apps">Search apps…</string>
+    <string name="loading_apps">Loading apps…</string>
+    <string name="app_icon_desc">App icon</string>
+    <string name="vpn_permission_required">VPN permission is required to block apps</string>
+</resources>
